@@ -3,6 +3,6 @@ this is a  case study example  for building a smart home connecting throw Blueto
 
 
 in this we have two project the 
-## android app in java
-## embedde sysytem app in C
+## Android App in Java
+## Embedded System App in C
 the android app connects to the embedded device Pic pic16f877a using the bluetooth module via uart arch

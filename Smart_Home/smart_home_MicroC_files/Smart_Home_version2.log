@@ -1,0 +1,18 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP16F877A -DL -O11111114 -fo8 -N"E:\the collega\comunication 2 term 2\microcontroler\HomeAutomation\final\smart_home_version2\Smart_Home_version2.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" -SP"E:\the collega\comunication 2 term 2\microcontroler\HomeAutomation\final\smart_home_version2\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" -IP"E:\the collega\comunication 2 term 2\microcontroler\HomeAutomation\final\smart_home_version2\" "Smart_Home_version2.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl" "__Lib_ADC_A_C.mcl" "__Lib_UART_c67.mcl" "__Lib_LcdConsts.mcl" "__Lib_Lcd.mcl"	 
+hint: 0	1139	Available RAM: 352 [bytes], Available ROM: 8192 [bytes]	 
+diagnostics: 0	122	Compilation Started	Smart_Home_version2.c
+warning: 82	1509	Generated baud rate is 9615 bps (error = 0.16 percent)	Smart_Home_version2.c
+diagnostics: 211	123	Compiled Successfully	Smart_Home_version2.c
+diagnostics: 0	127	All files Compiled in 94 ms	 
+warning: 0	1511	IRP bit must be set manually for indirect access to '?lstr13_Smart_Home_version2' variable	Smart_Home_version2.c
+warning: 0	1511	IRP bit must be set manually for indirect access to '?lstr15_Smart_Home_version2' variable	Smart_Home_version2.c
+warning: 0	1511	IRP bit must be set manually for indirect access to '?lstr16_Smart_Home_version2' variable	Smart_Home_version2.c
+warning: 0	1511	IRP bit must be set manually for indirect access to '?lstr17_Smart_Home_version2' variable	Smart_Home_version2.c
+warning: 0	1511	IRP bit must be set manually for indirect access to '?lstr18_Smart_Home_version2' variable	Smart_Home_version2.c
+warning: 0	1511	IRP bit must be set manually for indirect access to '?lstr19_Smart_Home_version2' variable	Smart_Home_version2.c
+hint: 0	1144	Used RAM (bytes): 231 (66%)  Free RAM (bytes): 121 (34%)	Used RAM (bytes): 231 (66%)  Free RAM (bytes): 121 (34%)
+hint: 0	1144	Used ROM (program words): 1098 (13%)  Free ROM (program words): 7094 (87%)	Used ROM (program words): 1098 (13%)  Free ROM (program words): 7094 (87%)
+diagnostics: 0	125	Project Linked Successfully	Smart_Home_version2.mcppi
+diagnostics: 0	128	Linked in 31 ms	 
+diagnostics: 0	129	Project 'Smart_Home_version2.mcppi' completed: 141 ms	 
+diagnostics: 0	103	Finished successfully: 01 íæäíæ 2018, 16:16:57	Smart_Home_version2.mcppi

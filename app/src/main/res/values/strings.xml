@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SmartHome</string>
+    <string name="opened">Opened</string>
+    <string name="closed">Closed</string>
+    <string name="on">On</string>
+    <string name="off">Off</string>
+</resources>
